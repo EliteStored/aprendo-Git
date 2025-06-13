@@ -1,2 +1,2 @@
-print("ale mmg github")
+print("ale mmg github v2")
 
